@@ -9,8 +9,6 @@
 ### 🚀 What I do
 - 🤖 **RandomHunter BOT** → Discord bot with random loadouts, translations, and usage statistics.  
 - 📱 **MiAhorro** → Android app built with React Native + Expo to easily track expenses.  
-- 🌐 Minimal, dark-themed web projects with a focus on usability and simplicity.
-
 ---
 
 ### 🛠 Tech stack
