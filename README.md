@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Lea</h1>
+<h1 align="center">👋 Hi, I'm Leandro</h1>
 <p align="center">
   I enjoy turning ideas into real projects people can actually use.<br/>
   My focus is on making them useful, simple, and visually pleasant.
